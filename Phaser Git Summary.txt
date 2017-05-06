@@ -1,0 +1,5 @@
+Phaser CE is the community version of phaser where several hundred contributors can add or modify code. 
+The community seems fairly big and most of the pull requests are handled by a couple of people according
+to the information on the main page. All the pull requests that they do take are unconditional and so 
+they will often take pull requests if they believe the changes are helpful for the community. The respository
+contains a bunch of folders that have a bunch of tasks listed next to the folders. There is also a changelog and other text files to help keep track of the changes.
